@@ -1,0 +1,42 @@
+﻿@model SpecialTemplateSample.Models.Product
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+
+<table>
+    
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.note)
+        </th>
+        <th></th>
+    </tr>
+    @for(int i = 0; i< 20; i++)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => modelItem.Name[i])
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => modelItem.note[i])
+             
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = i }) |
+                @Html.ActionLink("Delete", "Delete", new { id = i })
+            </td>
+        </tr>
+       
+    }
+ 
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+
+</table>

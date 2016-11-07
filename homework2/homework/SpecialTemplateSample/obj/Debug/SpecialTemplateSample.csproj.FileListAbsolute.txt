@@ -1,0 +1,96 @@
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.dll.config
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Providers.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.dll.config
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.pdb
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Antlr3.Runtime.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\EntityFramework.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Microsoft.Web.Infrastructure.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Newtonsoft.Json.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Net.Http.Formatting.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.WebHost.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Mvc.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Optimization.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Providers.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Deployment.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Razor.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\WebGrease.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\EntityFramework.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Newtonsoft.Json.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Net.Http.Formatting.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.WebHost.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Mvc.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Deployment.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Razor.xml
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.csprojResolveAssemblyReference.cache
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.dll
+D:\Lessons\ASP.NET MVC Fundamentals\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.pdb
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.dll.config
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\SpecialTemplateSample.pdb
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Antlr3.Runtime.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\EntityFramework.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Microsoft.Web.Infrastructure.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Newtonsoft.Json.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Net.Http.Formatting.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.WebHost.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Mvc.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Optimization.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Providers.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Razor.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Deployment.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Razor.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\WebGrease.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\EntityFramework.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\Newtonsoft.Json.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Net.Http.Formatting.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Http.WebHost.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Mvc.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.Razor.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Deployment.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\bin\System.Web.WebPages.Razor.xml
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.csprojResolveAssemblyReference.cache
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.dll
+E:\учеба\[ITVDN] ASP.NET MVC Fundamentals - 2014\006_Model\002_SpecialTemplateSample\SpecialTemplateSample\obj\Debug\SpecialTemplateSample.pdb
